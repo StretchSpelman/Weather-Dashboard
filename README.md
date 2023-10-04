@@ -10,7 +10,7 @@
 N/A
 
 ## Usage
-Webpage: https://stretchspelman.github.io/Password-Generator/
+Webpage: https://stretchspelman.github.io/Weather-Dashboard/
 
 ![Alttext](/assets/img/weather%20dashboard.png)
 
